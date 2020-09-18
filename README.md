@@ -1,4 +1,4 @@
-##  I'm Dev - aka Dev Adnani
+## Hi there, I'm Dev - aka Dev Adnani
 
 ## I'm a Developer & Tech enthusiast 
 - 🔭I'm currently working on Android App Development

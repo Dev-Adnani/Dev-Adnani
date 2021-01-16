@@ -7,7 +7,7 @@
 - 🔭I'm currently working on Android App Development
 - 🌱I'm currently learning everything🤣
 - 👯I'm looking to collaborate with other Developers
-- 🥅2020 Goals : Contribute more to Open Source Projects
+- 🥅2021 Goals : Contribute more to Open Source Projects
 - ⚡Fun Fact : i love to play chess & listen to music
 
 

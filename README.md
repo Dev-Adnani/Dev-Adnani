@@ -4,7 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdnaniDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdnaniDev&screen_name=AdnaniDev)
 
 ## I'm a Developer & Tech enthusiast 
-- 🔭I'm currently working on Android App Development
 - 🌱I'm currently learning everything🤣
 - 👯I'm looking to collaborate with other Developers
 - 🥅2021 Goals : Contribute more to Open Source Projects

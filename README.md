@@ -7,7 +7,7 @@
 - 🌱I'm currently learning everything🤣
 - 👯I'm looking to collaborate with other Developers
 - 🥅2021 Goals : Contribute more to Open Source Projects
-- ⚡Fun Fact : i love to play chess & listen to music
+- ⚡Fun Fact : i love to play chess and to read books
 
 
 ### Spotify Playing 🎧
@@ -43,13 +43,9 @@
 
 ---
 
+### :zap: Github Stats
+  <img align="left" alt="Dev-Adnani's Github Stats" src="https://metrics.lecoq.io/Dev-Adnani" style="max-width:100%;">
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Dev-Adnani's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dev-Adnani&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
-
-</details>
 
 [linkedin]:https://in.linkedin.com/in/dev-adnani
 [youtube]:https://www.youtube.com/channel/UCUE21aTjkyEvfC5uT1EltXQ/

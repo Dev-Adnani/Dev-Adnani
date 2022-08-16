@@ -50,9 +50,7 @@
 
 ## 🌱 I’m currently learning
 
-* Flutter
-* Backend With Node x TS 
-* Building Awsome Mobile-Apps
+* Data Structure And Algorithm
 
 ## 👯 I’m open to collaborate on
 
@@ -74,5 +72,3 @@
 <a href="https://github.com/Dev-Adnani">
   <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>
-
-

@@ -57,17 +57,12 @@
 * Building **APIs for Apps**.
 * For doing projects related to **Building Apps**.
 
-## Github Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Adnani&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="Dev-Adnani" height="150" />
+## Misc
 
 [![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 </br>
 
-<a href="https://github.com/Dev-Adnani">
-  <img alt="Dev-Adnani's Contribution Graph" src="https://idk-what-this-thing-is.herokuapp.com/graph?username=Dev-Adnani" />
-</a>
-</br>
+## Go With The Flow
 
 <a href="https://github.com/Dev-Adnani">
   <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">

@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />
     <a href="https://www.leetcode.com/notphoenix/">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Leetcode-A14836?style=for-the-badge&logo=Leetcode&logoColor=black" />   
-    <a href="https://www.codeforces.com/notphoenix/">&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/notphoenix">&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-codeforces-2307405e?style=for-the-badge&logo=codeforces&logoColor=black" />   
   </a>&nbsp;&nbsp;
 </table>

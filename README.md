@@ -62,10 +62,6 @@
 * Building **Scalable Backends**.
 * Building **Apps**.
 
-## Misc
-
-[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
-</br>
 
 ## Go With The Flow
 

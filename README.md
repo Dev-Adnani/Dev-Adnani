@@ -54,8 +54,8 @@
 
 ## 🌱 I’m currently learning
 
-* Data Structure And Algorithms
-* Swift
+* React
+* Web3
       
 ## 👯 I’m open to collaborate on
 

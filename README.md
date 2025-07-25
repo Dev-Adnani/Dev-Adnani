@@ -1,20 +1,24 @@
-<h1 align="center">Hi there, I'm Dev 👋</h1>
+<h1 align="center">Hi there, I'm Dev Adnani 👋</h1>
 
 <p align="center">
   <em>Full-Stack Software Engineer • Web3 Enthusiast • Fitness Buff</em>
+  </br>
+  <em>I don't have dreams, I have goals.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Open%20for%20Opportunities-brightgreen?style=for-the-badge" />
-  <a href="https://twitter.com/AdnaniDev"><img src="https://img.shields.io/twitter/follow/AdnaniDev?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
-  <a href="https://devadnani.com/resume"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dev-adnani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/AdnaniDev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="mailto:dev.adnani26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **SDE 1 @ [Copious](https://copious.app/)** — leading the frontend for AI-driven mental-health products.  
-- 🏋️ Gym regular & long-distance runner — ask me about deadlift PRs!  
-- 🌐 Always hacking on side-projects & contributing to OSS.
+- 🔭 **SDE 1 @ [Copious](https://copious.com/)** — leading the frontend for AI-driven mental-health products.
+- 🏋️ Gym regular — because strong code requires a strong mind and body  
+- 🚀 Always hacking on side-projects & exploring new technologies  
 
 ## 🚀 Tech Stack
 
@@ -32,24 +36,16 @@
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Flutter: Building Offline-First Apps with Supabase](https://devadnani.com/blog/flutter-offline-first-supabase)  
 - [10 Productivity Hacks for Remote Workers](https://devadnani.com/blog/productivity-hacks-remote-workers)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎤 Recent Talks
 
 - 🏨 *Offline-First Apps with Supabase/REST* — FlutterAhm (March 2025)  
 - 📱 *Reading & Writing NFC Tags in Flutter* — YouTube
 
-
-## 🤝 Connect With Me
-
-<a href="https://in.linkedin.com/in/dev-adnani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dev.adnani26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/AdnaniDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://leetcode.com/notphoenix"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
 ---
 
-<p align="center">“Go with the flow.” ✨</p>
+<div align="center">
+  <em>"Loyalty is a two-way street. If I’m asking for it from you, then you’re getting it from me"</em>
+</div>
